@@ -1,3 +1,4 @@
+# Data-Structure-Part-1 
 Welcome to the Data Structure Series. My name is Bikram Phurumbo, let me explain in three minutes how I've learned this course and how we can get the most out of it. This Data Structure Series, where we learn about linear data structures, such as arrays, linked lists, stacks, queues, and hash tables. 
 
 This series is for computer science students like me whose lecturers failed at explaining these concepts, or anyone who's preparing for a job interview. A lot of companies, especially big companies like Google, Microsoft, and Amazon, ask data structure and algorithm questions in their interviews to see if you know how to think like a programmer.
