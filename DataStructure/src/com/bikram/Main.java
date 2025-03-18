@@ -1,20 +1,23 @@
 package com.bikram;
 
+import java.util.ArrayList;
 import java.util.Arrays;
 
 public class Main {
     public static void main(String[] names) {
-        Array numbers = new Array(5);
-        numbers.insert(10);
-        numbers.insert(20);
-        numbers.insert(30);
-        numbers.insert(40);
-        numbers.insert(50);
-        numbers.insert(60);
-        numbers.insert(70);
-        numbers.removeAt(6);
-        numbers.print();
-        System.out.println(numbers.indexOf(10));
+        ArrayList<Integer> list = new ArrayList<>();
+        list.add(10);
+        list.add(20);
+        list.add(30);
+        list.add(40);
+        list.add(50);
+        list.remove(0);
+        list.indexOf(20);
+        list.lastIndexOf(20);
+        list.contains(20);
+        list.size();
+        list.toArray();
+        System.out.println(list);
     }
 }
 
