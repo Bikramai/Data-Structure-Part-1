@@ -3,4 +3,11 @@ Welcome to the Data Structure Series. My name is Bikram Phurumbo, let me explain
 
 This series is for computer science students like me whose lecturers failed at explaining these concepts, or anyone who's preparing for a job interview. A lot of companies, especially big companies like Google, Microsoft, and Amazon, ask data structure and algorithm questions in their interviews to see if you know how to think like a programmer.
 
-# Section:1 - 
+# Section: 1 - The Big O Notation
+- What is Big O?
+- O(1)
+- O(n)
+- O(n^2)
+- O(log n)
+- O(2^n)
+- Space Complexity
