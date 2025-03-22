@@ -11,3 +11,14 @@ This series is for computer science students like me whose lecturers failed at e
 - O(log n)
 - O(2^n)
 - Space Complexity
+
+# Section: 2 - Arrays
+- Understanding Arrays
+- Working with Arrays in Java
+- Exercise - Array Class
+- Solution - Creating the Class
+- Solution - insert()
+- Solution - removeAt()
+- Solution - indexOf()
+- Dynamic Arrays
+- Arrays - Exercises
