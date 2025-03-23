@@ -22,3 +22,15 @@ This series is for computer science students like me whose lecturers failed at e
 - Solution - indexOf()
 - Dynamic Arrays
 - Arrays - Exercises
+
+# Section : 3 - Stacks
+- What are Stacks
+- Working with Stacks
+- Exercise - Reversing a String
+- Solution - Reversing a String
+- Exercise - Balanced Expressions
+- Solution - A Basic implementation
+- Solution - Supporting Other Brackets
+- Solution - First Refactoring
+- Solution - Second Refactoring
+- Exercise - Building a Stack using an Array
