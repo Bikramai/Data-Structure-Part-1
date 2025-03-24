@@ -34,3 +34,19 @@ This series is for computer science students like me whose lecturers failed at e
 - Solution - First Refactoring
 - Solution - Second Refactoring
 - Exercise - Building a Stack using an Array
+
+# Section : 4 - Queues
+- What are Queues
+- Queues Implementation in Java
+- Exercise - Reversing a Queue
+- Solution - Reversing a Queue
+- Exercise - Building a Queue Using an Array
+- Solution - Building a Queue Using an Array
+- Solution - A Basic Implementation 
+- Solution - Circular Arrays
+- Exercise - Implementing a Queue Using a Stack
+- Solution - Implementing a Queue Using a Stack
+- Priority Queues
+- Exercise - Building a Priority Queue
+- Solution - Building a Priority Queue
+- Solution - Refactoring
